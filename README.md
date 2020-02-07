@@ -1,2 +1,0 @@
-# DawitResume
-Created with CodeSandbox
