@@ -16,7 +16,7 @@ export default function App() {
             <div className="resume_item resume_info">
               <div className="title">
                 <p className="bold">Dawit J. Tilahun</p>
-                <p className="regular">Junior Web Developer</p>
+                <p className="regular">Linguist and Junior Web Developer</p>
               </div>
               <ul>
                 <li>
@@ -24,7 +24,7 @@ export default function App() {
                     <i className="fas fa-map-signs" />
                   </div>
                   <div className="data">
-                    Bildstensvägen 6Q Lgh 1005 <br /> Lund, Sweden
+                    Bildstensvägen 6Q Lgh 1005 <br /> Malmö, Sweden
                   </div>
                 </li>
                 <li>
