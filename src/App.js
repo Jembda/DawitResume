@@ -24,7 +24,7 @@ export default function App() {
                     <i className="fas fa-map-signs" />
                   </div>
                   <div className="data">
-                    Bildstensvägen 6Q Lgh 1005 <br /> Malmö, Sweden
+                    Bildstensvägen 6Q Lgh 1005 <br /> Lund, Sweden
                   </div>
                 </li>
                 <li>
